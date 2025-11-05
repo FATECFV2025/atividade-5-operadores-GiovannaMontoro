@@ -1,6 +1,9 @@
-public class teste {
+public class Operadores {
 
-    public int atributo1;
+    public float adicao(float v1, float v2){
+        return v1+v2;
+    }
+    
 
     
     
